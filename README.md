@@ -1,13 +1,14 @@
 <h2>Desenvolvendo um sistema de gerenciamento de pessoas em API REST com Spring Boot</h2>
-```
-Desenvolvi este projeto acompanhando o curso da digital innovation one tendo como objetivo aprender a desenvolver com códigos mais eficientes e seguros.
-```
+
+<h3>Desenvolvi este projeto acompanhando o curso da digital innovation one tendo como objetivo aprender a desenvolver com códigos mais eficientes e seguros.</h3>
+
+
+
 <h5>Para executar o projeto no terminal, digite o seguinte comando:</h5>
 
 ```shell script
 gradle bootrun
 ```
-
 <h5>Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto:</h5>
 
 ```
